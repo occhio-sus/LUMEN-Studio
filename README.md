@@ -18,24 +18,4 @@
 
 ---
 
-## 🚀 Guida Rapida per il Caricamento su GitHub
-
-Puoi caricare facilmente il progetto usando il terminale Git:
-
-```bash
-# 1. Inizializza il repository locale nella cartella del tuo progetto
-git init
-
-# 2. Aggiungi tutti i file
-git add .
-
-# 3. Crea il primo commit
-git commit -m "Initial commit: Lumen AI Study App v1.0"
-
-# 4. Collega il tuo repository remoto GitHub
-git remote add origin [https://github.com/IL_TUO_USERNAME/lumen.git](https://github.com/IL_TUO_USERNAME/lumen.git)
-
-# 5. Rinomina il ramo principale in main e fai il push
-git branch -M main
-git push -u origin main
 

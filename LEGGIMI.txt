@@ -1,0 +1,13 @@
+STUDIOFLOW - PROTOTIPO ANDROID
+
+Contiene chat locale, copia chat, flashcard rivelabili, quiz di completamento, lettura vocale e termini/privacy di esempio accessibili nell'app.
+NON contiene una vera AI online né generazione di podcast audio. NON è stato compilato in questo ambiente.
+Non ci sono chiavi API da inserire.
+
+DA TELEFONO:
+Estrai l'archivio. Mantieni tutti i percorsi, inclusa la cartella nascosta .github.
+Carica il contenuto nella radice della repository GitHub.
+Il workflow Actions installa Gradle 8.7 esplicitamente, senza richiedere gradlew.
+Dopo una build riuscita, scarica l'artifact StudioFlow-APK e estrailo per ottenere app-debug.apk.
+Non è un APK già compilato né un'app pronta alla distribuzione pubblica.
+I termini sono una bozza da completare, non documenti legali definitivi.

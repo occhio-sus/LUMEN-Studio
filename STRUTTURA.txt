@@ -1,0 +1,13 @@
+.github/workflows/android.yml
+.gitignore
+LEGGIMI.txt
+LICENSE
+app/build.gradle
+app/src/main/AndroidManifest.xml
+app/src/main/assets/terms.txt
+app/src/main/java/it/studioflow/app/MainActivity.java
+app/src/main/res/drawable/ic_launcher.xml
+build.gradle
+gradle.properties
+settings.gradle
+STRUTTURA.txt

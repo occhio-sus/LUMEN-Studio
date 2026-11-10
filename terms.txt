@@ -1,0 +1,10 @@
+StudioFlow — Termini e privacy (bozza per prototipo)
+Versione 0.1 demo
+
+Questa versione è un prototipo locale: non contiene un modello AI né un servizio online. Flashcard e quiz vengono ricavati meccanicamente dal testo; la funzione podcast legge il testo usando il sintetizzatore vocale del dispositivo, non produce un file audio.
+
+Uso: inserisci solo contenuti che hai diritto di utilizzare. Verifica i risultati; non costituiscono consulenza professionale né materiale didattico validato.
+
+Dati: questo prototipo non include analytics, account o richieste di rete. La cronologia non viene salvata intenzionalmente e può essere persa alla chiusura. Copiando una chat la inserisci negli appunti del dispositivo. La sintesi vocale dipende dal motore installato: consulta le sue impostazioni e condizioni prima di leggere dati sensibili.
+
+Questa è una bozza, non termini definitivi per una distribuzione pubblica. Prima della pubblicazione occorre indicare titolare e contatto, verificare gli obblighi applicabili e aggiornare privacy e termini in base ai servizi effettivamente integrati. Nessuna clausola limita i diritti inderogabili dell'utente.

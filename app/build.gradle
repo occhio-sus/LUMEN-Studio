@@ -1,13 +1,13 @@
 plugins {
-    id 'com.android.application'
+    id 'com.android.application' version '8.5.2' apply false
 }
 
 android {
-    namespace 'com.example.myapplication'
+    namespace 'com.example.lumenstudio'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.myapplication"
+        applicationId "com.example.lumenstudio"
         minSdk 24
         targetSdk 34
         versionCode 1
